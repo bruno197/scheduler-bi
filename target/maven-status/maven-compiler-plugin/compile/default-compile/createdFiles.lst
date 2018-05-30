@@ -1,0 +1,11 @@
+com/brunofr/SchedulerBiApplication.class
+com/brunofr/runners/CmdRunner.class
+com/brunofr/rest/RestClient.class
+com/brunofr/tasks/ExportProductsScheduled.class
+com/brunofr/rest/request/ProductFilterRequest.class
+com/brunofr/services/product/ProductService.class
+com/brunofr/adapters/Adapter.class
+com/brunofr/services/IService.class
+com/brunofr/rest/request/ProductShortRequest.class
+com/brunofr/pojo/Product.class
+com/brunofr/rest/request/ProductRequest.class

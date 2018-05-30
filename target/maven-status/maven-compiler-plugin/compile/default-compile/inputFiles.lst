@@ -1,0 +1,11 @@
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/rest/request/ProductRequest.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/pojo/Product.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/adapters/Adapter.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/runners/CmdRunner.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/rest/request/ProductFilterRequest.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/tasks/ExportProductsScheduled.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/rest/request/ProductShortRequest.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/services/product/ProductService.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/SchedulerBiApplication.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/services/IService.java
+/Users/brunofr/workbench/scheduler_bi/scheduler-bi/src/main/java/com/brunofr/rest/RestClient.java
